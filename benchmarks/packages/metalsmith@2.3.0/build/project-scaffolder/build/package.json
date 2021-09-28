@@ -1,0 +1,12 @@
+{
+  "name": "asd",
+  "description": "asd",
+  "repository": "git://github.com/asd.git",
+  "version": "0.0.0",
+  "license": "asd",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.x"
+  }
+}

@@ -1,0 +1,21 @@
+<html>
+<head>
+    
+</head>
+<body>
+    <p style="text-align: center; vertical-align: middle;">none</p>
+    <table style="background-image: url('test.png'); background-color: red;" background="test.png" bgcolor="red">
+        <tr>
+            <td class="double" style="text-align: center; vertical-align: middle; background-image: url('test.png');" align="center" valign="middle" background="test.png">
+                wide
+            </td>
+            <td class="single" style="text-align: center; vertical-align: middle; background-image: url('test.png');" align="center" valign="middle" background="test.png">
+                wide
+            </td>
+            <td class="none" style="text-align: center; vertical-align: middle; background-image: url(test.png);" align="center" valign="middle" background="test.png">
+                wide
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

@@ -1,0 +1,10 @@
+**/node_modules/
+**/npm-debug.log
+
+bower_components/
+coverage/
+.tern-project
+.idea/
+.vscode/
+jsconfig.json
+*.iml

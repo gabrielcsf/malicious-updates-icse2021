@@ -1,0 +1,5 @@
+* eol=lf
+* text=auto
+*.png -text
+*.eps -text
+*.ai -text

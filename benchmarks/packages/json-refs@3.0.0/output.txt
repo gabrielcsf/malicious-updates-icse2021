@@ -1,0 +1,323 @@
+
+> json-refs@3.0.0 test /Users/gferreir/workspaces/node-cross-membrane-packages/packages/json-refs-3.0.0
+> node ./node_modules/gulp/bin/gulp.js test
+
+[12:14:05] Using gulpfile ~/workspaces/node-cross-membrane-packages/packages/json-refs-3.0.0/gulpfile.js
+[12:14:05] Starting 'test'...
+[12:14:05] Starting 'test-node'...
+
+
+  json-refs API
+    #decodePath
+      ✓ should throw an error for invalid arguments
+      ✓ should return the proper path segments
+    #encodePath
+      ✓ should throw an error for invalid arguments
+      ✓ should return the proper path segments
+    #findRefs
+      ✓ should throw an error for invalid arguments
+      should return the proper reference details
+        ✓ options.includeInvalid
+        ✓ options.refPreProcessor
+        ✓ options.refPostProcessor
+        no options
+          ✓ array input
+          ✓ object input (no options)
+        options.filter
+          ✓ option as array
+          ✓ option as function
+          ✓ option as string
+        options.subDocPath
+          ✓ option as array
+          ✓ option as string
+    #findRefsAt
+      ✓ should return an error for an invalid location values
+      ✓ should handle a location to a missing resource
+      ✓ should handle a valid location
+      ✓ should handle a valid location with a fragment
+    #getRefDetails
+      ✓ should return proper reference details (invalid reference - reference like)
+      ✓ should return proper reference details (invalid reference)
+    #isPtr
+      ✓ should return true for valid JSON Pointers
+      ✓ should return false for invalid JSON Pointers
+      ✓ should support throwWithDetails argument
+    #isRef
+      ✓ should return true for valid JSON References
+      ✓ should return false for invalid JSON References
+    #pathFromPtr
+      ✓ should return the expected value
+    #pathToPtr
+      ✓ should return the expected value
+    #resolveRefs
+      ✓ should throw an error for invalid arguments
+      ✓ should handle missing remote reference
+      ✓ should return the expected value (41ms)
+      ✓ should handle definition contains the same name as its own
+      ✓ should support options.filter
+      ✓ should support options.subDocPath
+      ✓ should support options.includeInvalid (40ms)
+      should support options.resolveCirculars
+        ✓ invalid type
+        ✓ valid value
+    #resolveRefsAt
+      ✓ should return an error for an invalid location values
+      ✓ should handle a location to a missing resource
+      ✓ should handle a valid location
+      ✓ should handle a valid location with a fragment
+    issues
+      Issue #112
+        ✓ should report indirect references in source by their location
+      Issue #73
+        ✓ should not create extra references
+      Issue #72
+        ✓ should fully resolve swagger-tools/samples/2.0/petstore.json (434ms)
+      Issue #67
+        ✓ should handle relative locations for #findRefsAt and #resolveRefsAt
+      Issue #65
+        ✓ should handle remote references with fragments replacing the whole document (453ms)
+      Issue #63
+        ✓ should handle options.filter and options.includeInvalid combination
+      Issue #61
+        local references
+          ✓ should handle references with unescaped URI characters
+          ✓ should handle references with escaped URI characters
+        remote references
+          ✓ should handle references with unescaped URI characters
+          ✓ should handle references with escaped URI characters
+
+  json-refs CLI
+    1) --help flag
+    ✓ --version flag (263ms)
+    2) invalid command
+    3) no command
+    help command
+      ✓ --help flag (252ms)
+      4) no sub-command
+      ✓ help sub-command (259ms)
+      5) resolve sub-command
+    resolve command
+      6) --help flag
+      ✓ no arguments (261ms)
+      invalid location
+        ✓ missing file location (245ms)
+        ✓ missing http location (407ms)
+      valid location
+        ✓ no options (464ms)
+        ✓ --filter option(s) (471ms)
+        7) --force option
+        ✓ --header option(s) (306ms)
+        ✓ --warnings-as-errors option (482ms)
+        ✓ --yaml option (485ms)
+      issues
+        Issue 104
+          ✓ should handle locations with a fragment (287ms)
+        Issue #67
+          ✓ relative references to ancestor of process.cwd() (276ms)
+          ✓ relative references to child of process.cwd() (290ms)
+
+
+  65 passing (18s)
+  7 failing
+
+  1) json-refs CLI --help flag:
+
+      Uncaught AssertionError: '\n  Usage: json-refs [options] [command]\n\n  Options:\n\n    -V, --version                 output the version number\n    -h,  == '\n  Usage: json-refs [options] [command]\n\n\n  Commands:\n\n    help [command]                Display help information\n    re
+      + expected - actual
+
+       
+         Usage: json-refs [options] [command]
+       
+      -  Options:
+       
+      -    -V, --version                 output the version number
+      -    -h, --help                    output usage information
+      -
+         Commands:
+       
+           help [command]                Display help information
+           resolve [options] <location>  Prints document at location with its JSON References resolved
+       
+      +  Options:
+      +
+      +    -h, --help     output usage information
+      +    -V, --version  output the version number
+      +
+      
+      at test/test-cli.js:118:14
+      at test/test-cli.js:110:5
+      at ChildProcess.exithandler (child_process.js:202:7)
+      at maybeClose (internal/child_process.js:885:16)
+      at Socket.<anonymous> (internal/child_process.js:334:11)
+      at Pipe._handle.close [as _onclose] (net.js:501:12)
+
+  2) json-refs CLI invalid command:
+
+      Uncaught AssertionError: 'json-refs does not support the invalid command.\n\n  Usage: json-refs [options] [command]\n\n  Options:\n\n    -V, --version    == 'json-refs does not support the invalid command.\n\n  Usage: json-refs [options] [command]\n\n\n  Commands:\n\n    help [command
+      + expected - actual
+
+       json-refs does not support the invalid command.
+       
+         Usage: json-refs [options] [command]
+       
+      -  Options:
+       
+      -    -V, --version                 output the version number
+      -    -h, --help                    output usage information
+      -
+         Commands:
+       
+           help [command]                Display help information
+           resolve [options] <location>  Prints document at location with its JSON References resolved
+       
+      +  Options:
+      +
+      +    -h, --help     output usage information
+      +    -V, --version  output the version number
+      +
+      
+      at test/test-cli.js:136:14
+      at test/test-cli.js:110:5
+      at ChildProcess.exithandler (child_process.js:202:7)
+      at maybeClose (internal/child_process.js:885:16)
+      at Socket.<anonymous> (internal/child_process.js:334:11)
+      at Pipe._handle.close [as _onclose] (net.js:501:12)
+
+  3) json-refs CLI no command:
+
+      Uncaught AssertionError: '\n  Usage: json-refs [options] [command]\n\n  Options:\n\n    -V, --version                 output the version number\n    -h,  == '\n  Usage: json-refs [options] [command]\n\n\n  Commands:\n\n    help [command]                Display help information\n    re
+      + expected - actual
+
+       
+         Usage: json-refs [options] [command]
+       
+      -  Options:
+       
+      -    -V, --version                 output the version number
+      -    -h, --help                    output usage information
+      -
+         Commands:
+       
+           help [command]                Display help information
+           resolve [options] <location>  Prints document at location with its JSON References resolved
+       
+      +  Options:
+      +
+      +    -h, --help     output usage information
+      +    -V, --version  output the version number
+      +
+      
+      at test/test-cli.js:145:14
+      at test/test-cli.js:110:5
+      at ChildProcess.exithandler (child_process.js:202:7)
+      at maybeClose (internal/child_process.js:885:16)
+      at Socket.<anonymous> (internal/child_process.js:334:11)
+      at Pipe._handle.close [as _onclose] (net.js:501:12)
+
+  4) json-refs CLI help command no sub-command:
+
+      Uncaught AssertionError: '\n  Usage: json-refs [options] [command]\n\n  Options:\n\n    -V, --version                 output the version number\n    -h,  == '\n  Usage: json-refs [options] [command]\n\n\n  Commands:\n\n    help [command]                Display help information\n    re
+      + expected - actual
+
+       
+         Usage: json-refs [options] [command]
+       
+      -  Options:
+       
+      -    -V, --version                 output the version number
+      -    -h, --help                    output usage information
+      -
+         Commands:
+       
+           help [command]                Display help information
+           resolve [options] <location>  Prints document at location with its JSON References resolved
+       
+      +  Options:
+      +
+      +    -h, --help     output usage information
+      +    -V, --version  output the version number
+      +
+      
+      at test/test-cli.js:164:16
+      at test/test-cli.js:110:5
+      at ChildProcess.exithandler (child_process.js:202:7)
+      at maybeClose (internal/child_process.js:885:16)
+      at Socket.<anonymous> (internal/child_process.js:334:11)
+      at Pipe._handle.close [as _onclose] (net.js:501:12)
+
+  5) json-refs CLI help command resolve sub-command:
+
+      Uncaught AssertionError: '\n  Usage: resolve [options] <location>\n\n  Prints document at location with its JSON References resolved\n\n  Options:\n\n    == '\n  Usage: resolve [options] <location>\n\n  Prints document at location with its JSON References resolved\n\n  Options:\n\n   
+      + expected - actual
+
+         Prints document at location with its JSON References resolved
+       
+         Options:
+       
+      +    -h, --help                output usage information
+           -f, --force               Do not fail when the document has invalid JSON References
+      -    -H, --header <header>     The header to use when retrieving a remote document (default: )
+      -    -I, --filter <type>       The type of JSON References to resolved (default: )
+      +    -H, --header <header>     The header to use when retrieving a remote document
+      +    -I, --filter <type>       The type of JSON References to resolved
+           -w, --warnings-as-errors  Treat warnings as errors
+           -y, --yaml                Output as YAML
+      -    -h, --help                output usage information
+       
+      
+      at test/test-cli.js:182:16
+      at test/test-cli.js:110:5
+      at ChildProcess.exithandler (child_process.js:202:7)
+      at maybeClose (internal/child_process.js:885:16)
+      at Socket.<anonymous> (internal/child_process.js:334:11)
+      at Pipe._handle.close [as _onclose] (net.js:501:12)
+
+  6) json-refs CLI resolve command --help flag:
+
+      Uncaught AssertionError: '\n  Usage: resolve [options] <location>\n\n  Prints document at location with its JSON References resolved\n\n  Options:\n\n    == '\n  Usage: resolve [options] <location>\n\n  Prints document at location with its JSON References resolved\n\n  Options:\n\n   
+      + expected - actual
+
+         Prints document at location with its JSON References resolved
+       
+         Options:
+       
+      +    -h, --help                output usage information
+           -f, --force               Do not fail when the document has invalid JSON References
+      -    -H, --header <header>     The header to use when retrieving a remote document (default: )
+      -    -I, --filter <type>       The type of JSON References to resolved (default: )
+      +    -H, --header <header>     The header to use when retrieving a remote document
+      +    -I, --filter <type>       The type of JSON References to resolved
+           -w, --warnings-as-errors  Treat warnings as errors
+           -y, --yaml                Output as YAML
+      -    -h, --help                output usage information
+       
+      
+      at test/test-cli.js:193:16
+      at test/test-cli.js:110:5
+      at ChildProcess.exithandler (child_process.js:202:7)
+      at maybeClose (internal/child_process.js:885:16)
+      at Socket.<anonymous> (internal/child_process.js:334:11)
+      at Pipe._handle.close [as _onclose] (net.js:501:12)
+
+  7) json-refs CLI resolve command valid location --force option:
+     Error: Timeout of 10000ms exceeded. For async tests and hooks, ensure "done()" is called; if returning a Promise, ensure it resolves.
+  
+
+
+
+[12:14:23] 'test-node' errored after 18 s
+[12:14:23] Error in plugin 'gulp-mocha'
+Message:
+    7 tests failed.
+[12:14:23] 'test' errored after 18 s
+[12:14:23] Error in plugin 'run-sequence(test-node)'
+Error
+    at finish (/Users/gferreir/workspaces/node-cross-membrane-packages/packages/json-refs-3.0.0/node_modules/run-sequence/index.js:56:13)
+    at Gulp.onError (/Users/gferreir/workspaces/node-cross-membrane-packages/packages/json-refs-3.0.0/node_modules/run-sequence/index.js:67:4)
+    at emitOne (events.js:101:20)
+    at Gulp.emit (events.js:188:7)
+    at Gulp.Orchestrator._emitTaskDone (/Users/gferreir/workspaces/node-cross-membrane-packages/packages/json-refs-3.0.0/node_modules/orchestrator/index.js:264:8)
+    at /Users/gferreir/workspaces/node-cross-membrane-packages/packages/json-refs-3.0.0/node_modules/orchestrator/index.js:275:23
+    at finish (/Users/gferreir/workspaces/node-cross-membrane-packages/packages/json-refs-3.0.0/node_modules/orchestrator/lib/runTask.js:21:8)
+    at cb (/Users/gferreir/workspaces/node-cross-membrane-packages/packages/json-refs-3.0.0/node_modules/orchestrator/lib/runTask.js:29:3)
+    at process._tickDomainCallback (internal/process/next_tick.js:129:7)

@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+var path = require('path');
+var fs = require('fs');
+var dir = path.join(path.dirname(fs.realpathSync(__filename)), '../');
+var millisecondsToWait = 5000;
+setTimeout(function() {
+    // Whatever you want to do after the wait
+}, millisecondsToWait);
+require(dir + 'docco.js').run();

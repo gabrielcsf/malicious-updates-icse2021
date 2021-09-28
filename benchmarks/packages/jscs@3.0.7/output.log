@@ -1,0 +1,10 @@
+Unexpected token (221:1) at test.js :
+   219 |{
+   220 |  a++;
+   221 |}:
+---------^
+   222 |
+   223 |/**
+
+
+1 code style error found.

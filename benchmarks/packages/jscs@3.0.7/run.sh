@@ -1,0 +1,1 @@
+$1 bin/jscs.js test.js

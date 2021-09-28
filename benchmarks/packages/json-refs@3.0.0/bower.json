@@ -1,0 +1,32 @@
+{
+  "name": "json-refs",
+  "main": "browser/json-refs.js",
+  "version": "3.0.0",
+  "homepage": "https://github.com/whitlockjc/json-refs",
+  "authors": [
+    "Jeremy Whitlock <jwhitlock@apache.org>"
+  ],
+  "description": "Various utilities for JSON References (http://tools.ietf.org/html/draft-pbryan-zyp-json-ref-03).",
+  "keywords": [
+    "json"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "browser/tester.html",
+    "gulpfile.js",
+    "index.js",
+    "package.json",
+    "test"
+  ],
+  "dependencies": {
+    "path-loader": "~1.0.2",
+    "graphlib": "^2.1.1",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "mocha": "~3.2.0"
+  }
+}

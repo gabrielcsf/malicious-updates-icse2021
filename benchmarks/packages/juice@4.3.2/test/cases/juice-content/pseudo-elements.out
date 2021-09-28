@@ -1,0 +1,9 @@
+<html><body>
+
+<a href="#" style="text-decoration: underline; color: blue;"><span>®+</span>Test<span style="font-weight: bold;">a</span></a>
+<b><span style="color: green;">b</span></b>
+<b><span style="color: red;"></span><span style="color: green;">b</span></b>
+<c style="color: red;"></c>
+<c class="not"></c>
+<d><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs="><span>test</span><img style="width: 20%;" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACwAAAAAAQABAAACAkQBADs="></d>
+</body></html>

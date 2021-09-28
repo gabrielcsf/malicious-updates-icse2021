@@ -1,0 +1,55 @@
+{
+  "name": "dot-object",
+  "description": "dot-object makes it possible to transform and read (JSON) objects using dot notation.",
+  "version": "1.7.0",
+  "author": {
+    "name": "Rob Halff",
+    "email": "rob.halff@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rhalff/dot-object.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rhalff/dot-object/issues"
+  },
+  "main": "index",
+  "bin": "./bin/dot-object",
+  "scripts": {
+    "test": "gulp test",
+    "watch": "gulp watch",
+    "lint": "gulp lint",
+    "dist": "gulp dist"
+  },
+  "standard": {
+    "globals": [
+      "it",
+      "describe",
+      "beforeEach"
+    ]
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-beautify": "^2.0.1",
+    "gulp-headerfooter": "^1.0.3",
+    "gulp-mocha": "^4.3.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-standard": "^10.0.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "mocha": "3.x.x",
+    "should": "11.x.x",
+    "underscore.string": "latest"
+  },
+  "keywords": [
+    "json",
+    "filter",
+    "transform",
+    "dot notation",
+    "dot"
+  ],
+  "dependencies": {
+    "commander": "^2.10.0",
+    "glob": "^7.1.2"
+  }
+}

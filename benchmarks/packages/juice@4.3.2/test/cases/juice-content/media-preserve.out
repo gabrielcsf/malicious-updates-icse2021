@@ -1,0 +1,25 @@
+<html>
+<head>
+    <style>
+@media screen {
+  a {
+    color: blue !important;
+    background: red;
+  }
+
+  @font-face {
+    font-family: 'Arial2';
+  }
+}
+</style>
+<style>
+@media all {
+  body {
+    color: blue;
+  }
+}
+</style></head>
+<body>
+    <p style="color: blue;">hi</p>
+</body>
+</html>

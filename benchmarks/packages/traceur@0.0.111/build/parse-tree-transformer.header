@@ -1,0 +1,31 @@
+export class ParseTreeTransformer {
+  transformAny(tree) {
+    return tree === null ? null : tree.transform(this);
+  }
+  transformList(list) {
+    let builder = null;
+    for (let index = 0; index < list.length; index++) {
+      let element = list[index];
+      let transformed = this.transformAny(element);
+      if (builder != null || element != transformed) {
+        if (builder === null) {
+          builder = list.slice(0, index);
+        }
+        if (transformed instanceof AnonBlock)
+          builder.push(...transformed.statements);
+        else
+          builder.push(transformed);
+      }
+    }
+    return builder || list;
+  }
+  transformStateMachine(tree) {
+    throw Error('State machines should not live outside of the GeneratorTransformer.');
+  }
+  transformToBlockOrStatement(tree) {
+    let transformed = this.transformAny(tree);
+    if (transformed instanceof AnonBlock) {
+      return new Block(transformed.location, transformed.statements);
+    }
+    return transformed;
+  }

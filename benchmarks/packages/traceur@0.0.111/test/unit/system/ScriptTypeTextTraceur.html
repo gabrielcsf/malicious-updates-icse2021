@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello, World!</title>
+    <script src="../../../bin/BrowserSystem.js"></script>
+    <script src="../../../src/bootstrap.js"></script>
+</head>
+<body>
+<script type="text/traceur">
+    thisShouldBeAGlobalVariable = 'Success!';
+</script>
+<script type="text/traceur">
+      document.querySelector('#message').textContent = thisShouldBeAGlobalVariable;
+</script>
+<h1 id="message"></h1>
+</body>
+</html>

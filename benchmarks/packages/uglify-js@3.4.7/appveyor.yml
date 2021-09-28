@@ -1,0 +1,25 @@
+environment:
+  UGLIFYJS_TEST_ALL: 1
+  matrix:
+    - NODEJS_VER: node/0.10
+    - NODEJS_VER: node/0.12
+    - NODEJS_VER: node/4
+    - NODEJS_VER: node/6
+    - NODEJS_VER: node/8
+    - NODEJS_VER: node/latest
+install:
+  - git clone --branch v1.4.2 --depth 1 https://github.com/jasongin/nvs.git %LOCALAPPDATA%\nvs
+  - set PATH=%LOCALAPPDATA%\nvs;%PATH%
+  - nvs --version
+  - nvs add %NODEJS_VER%
+  - nvs use %NODEJS_VER%
+  - node --version
+  - npm --version --no-update-notifier
+  - npm install --no-optional --no-save --no-update-notifier
+build: off
+cache:
+  - tmp
+matrix:
+  fast_finish: true
+test_script:
+  - npm test --no-update-notifier

@@ -1,0 +1,8 @@
+exclude:
+  - "*.conf"
+  - "node_modules"
+  - "benchmarks"
+  - "src"
+  - "Gruntfile.js"
+  - "package.json"
+  - "README.md"

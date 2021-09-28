@@ -1,0 +1,24 @@
+{
+  "name": "permsystem",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "common-prefix": "1.1.0",
+    "escodegen": "^1.14.3",
+    "escope": "^3.6.0",
+    "eslint-scope": "^4.0.3",
+    "espree": "^4.1.0",
+    "esprima": "^4.0.1",
+    "estraverse": "^4.3.0",
+    "left-pad": "1.1.3",
+    "mocha": "^6.*.*"
+  },
+  "devDependencies": {
+    "@stryker-mutator/core": "^4.5.1",
+    "@stryker-mutator/mocha-runner": "^4.5.1",
+    "chai": "^4.2.0"
+  }
+}

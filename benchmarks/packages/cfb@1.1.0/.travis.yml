@@ -1,0 +1,22 @@
+language: node_js
+node_js:
+  - "10"
+  - "9"
+  - "8"
+  - "7"
+  - "6"
+  - "5"
+  - "4"
+  - "0.12"
+  - "0.10"
+  - "0.8"
+before_install:
+  - "npm install -g npm@4.3.0"
+  - "npm install -g mocha@2.x voc"
+  - "npm install blanket"
+  - "npm install xlsjs crc-32"
+  - "npm install coveralls mocha-lcov-reporter"
+before_script:
+  - "make init"
+after_success:
+  - "make coveralls-spin"

